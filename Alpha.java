@@ -29,7 +29,7 @@ public class Alpha
 
 	public static void showSaurabhInfo(String name,int no){
 		name="saurabh";no=1001;
-		System.out.println("my name is "+name+"print number = "+ no);
+		System.out.println("my name is "+name+"print number = "+ No);
 	}
 
 }
