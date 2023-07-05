@@ -22,7 +22,14 @@ public class Alpha
             System.out.println();
 		 }
 		
+		showSaurabhInfo("abc",1);
 		
+		
+	}
+
+	public static void showSaurabhInfo(String name,int no){
+		name="saurabh";no=1001;
+		System.out.println("my name is "+name+"print number = ");
 	}
 
 }
